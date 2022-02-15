@@ -50,7 +50,8 @@ header div span a{
 }
 header img {
     width: 100% ;
-    
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
 }
 
 article {
