@@ -40,8 +40,6 @@ header span a:link, header span a:visited {
 }
 header div h1 {
     white-space: nowrap;
-
-
 }
 header div h2, header div span {
     align-self: center;
