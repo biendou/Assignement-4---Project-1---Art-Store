@@ -29,7 +29,7 @@ header span a:link, header span a:visited {
 
 .banner--title {
     position: absolute;
-    top:        50%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -38,7 +38,11 @@ header span a:link, header span a:visited {
     justify-content: center;
                    
 }
+header div h1 {
+    white-space: nowrap;
 
+
+}
 header div h2, header div span {
     align-self: center;
    
